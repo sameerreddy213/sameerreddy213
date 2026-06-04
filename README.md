@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Mern Stack Developer with a passion for leve
 ## About Me
 - 💼 Mern Stack Developer
 - 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
-- 🎓 Pursuing Bachelor's in Computer Science and Engineering
+- 🎓 Bachelor's in Computer Science and Engineering
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
