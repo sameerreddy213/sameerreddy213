@@ -1,18 +1,18 @@
 ## Hi there, I'm Tamalampudi Sameer Reddy 👋
 
-Welcome to my GitHub profile! I'm a **Software Development Engineer** with strong CS fundamentals in Data Structures, Algorithms, and OOP, applied to building scalable and maintainable software. I work across the full SDLC in Agile teams — from REST APIs and databases to CI/CD — with hands-on experience in C++, Python, and JavaScript/TypeScript.
+Welcome to my GitHub profile! I'm a **Software Development Engineer** with strong CS fundamentals in Data Structures, Algorithms, and OOP, applied to building scalable and maintainable software. I work across the full SDLC in Agile teams, with hands-on experience in REST APIs, databases, CI/CD, C++, Python, and JavaScript/TypeScript.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sameerreddy213&color=blueviolet)
 
 ## About Me
 - 💻 Software Development Engineer focused on scalable, maintainable systems
 - 🔬 Former INSA Summer Research Fellow at **IIT Ropar**
-- 🎓 B.Tech in Computer Science and Engineering, IIIT Manipur (2022–2026)
+- 🎓 B.Tech in Computer Science and Engineering, IIIT Manipur (2022 to 2026)
 - 🌱 Strong foundation in DSA, OOP, REST APIs, SQL/NoSQL, Git, and CI/CD
 - 🌐 Portfolio: [sameerreddy.tech](https://sameerreddy.tech)
 
 ## Experience
-**Software Development Engineer Intern** · INSA Summer Research Fellow · IIT Ropar · *May 2025 – Jul 2025*
+**INSA Summer Research Fellow**, IIT Ropar *(May 2025 to Jul 2025)*
 - Designed and maintained RESTful API integrations between a React frontend and MongoDB backend, cutting average API response time by ~20% through query optimisation.
 - Co-built a Python synthetic-learner simulator (Pandas, NumPy) to evaluate recommendation-engine accuracy, improving model precision by ~18%.
 - Re-architected the frontend in React.js and Bootstrap 5 with component-level refactoring and responsive layouts, improving usability and reducing page load time by ~30%.
@@ -60,11 +60,11 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer** with stron
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## Education
-- 🎓 **B.Tech in Computer Science and Engineering** — Indian Institute of Information Technology, Manipur *(2022–2026)*
+- 🎓 **B.Tech in Computer Science and Engineering**, Indian Institute of Information Technology, Manipur *(2022 to 2026)*
 
 ## Certifications & Achievements
-- 🍃 **MongoDB Associate Developer** — MongoDB University
-- 📊 **Data Analytics with Python** — NPTEL, certified by IIT Roorkee
+- 🍃 **MongoDB Associate Developer**, MongoDB University
+- 📊 **Data Analytics with Python**, NPTEL (certified by IIT Roorkee)
 
 ## Let's Connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://sameerreddy.tech)
