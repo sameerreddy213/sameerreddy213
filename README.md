@@ -1,75 +1,163 @@
-## Hi there, I'm Tamalampudi Sameer Reddy 👋
+<h1 align="center">Hi, I'm Tamalampudi Sameer Reddy 👋</h1>
 
-Welcome to my GitHub profile! I'm a **Software Development Engineer** with strong CS fundamentals in Data Structures, Algorithms, and OOP, applied to building scalable and maintainable software. I work across the full SDLC in Agile teams, with hands-on experience in REST APIs, databases, CI/CD, C++, Python, and JavaScript/TypeScript.
+<p align="center">
+  <strong>Applied AI & Full-Stack Developer</strong><br />
+  LLM Evaluation · AI Coding Agents · Production Web & Mobile Systems
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sameerreddy213&color=blueviolet)
+<p align="center">
+  <a href="https://sameerreddy.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tamalampudisameerreddy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tamalampudisameerreddy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sameerreddy213&style=for-the-badge&color=6C63FF" alt="Profile views" />
+</p>
 
-## About Me
-- 💻 Software Development Engineer focused on scalable, maintainable systems
-- 🔬 Former INSA Summer Research Fellow at **IIT Ropar**
-- 🎓 B.Tech in Computer Science and Engineering, IIIT Manipur (2022 to 2026)
-- 🌱 Strong foundation in DSA, OOP, REST APIs, SQL/NoSQL, Git, and CI/CD
-- 🌐 Portfolio: [sameerreddy.tech](https://sameerreddy.tech)
+About Me
 
-## Experience
-**INSA Summer Research Fellow**, IIT Ropar *(May 2025 to Jul 2025)*
-- Designed and maintained RESTful API integrations between a React frontend and MongoDB backend, cutting average API response time by ~20% through query optimisation.
-- Co-built a Python synthetic-learner simulator (Pandas, NumPy) to evaluate recommendation-engine accuracy, improving model precision by ~18%.
-- Re-architected the frontend in React.js and Bootstrap 5 with component-level refactoring and responsive layouts, improving usability and reducing page load time by ~30%.
+🚀 Full-Stack Developer Intern at Anytime Diesel, building production web, PWA, Android, and iOS applications.
 
-## Tools and Languages
+🤖 Working on LLM and AI coding-agent evaluation, including benchmark tasks, deterministic tests, Docker environments, and model failure analysis.
 
-**Languages**
+🔬 Former INSA Summer Research Fellow at IIT Ropar, where I worked on REST APIs, recommendation-system evaluation, and frontend performance.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+🎓 B.Tech in Computer Science and Engineering from IIIT Manipur (2022–2026).
 
-**Backend & APIs**
+🧠 Strong foundation in data structures, algorithms, OOP, REST APIs, SQL/NoSQL databases, Git, and CI/CD.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+🌱 Interested in Applied AI, AI-enabled product engineering, full-stack development, and developer tools.
 
-**Frontend**
+What I Work On
 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+Area
 
-**DevOps & Cloud**
+Focus
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+Applied AI & Evaluation
 
-**Data & Tools**
+LLM evaluation, AI coding agents, benchmark design, oracle solutions, failure analysis, and reproducible testing
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+Product Engineering
 
-## Education
-- 🎓 **B.Tech in Computer Science and Engineering**, Indian Institute of Information Technology, Manipur *(2022 to 2026)*
+React, TypeScript, Node.js, Express, REST APIs, MySQL, MongoDB, Prisma, and responsive interfaces
 
-## Certifications & Achievements
-- 🍃 **MongoDB Associate Developer**, MongoDB University
-- 📊 **Data Analytics with Python**, NPTEL (certified by IIT Roorkee)
+Quality & Delivery
 
-## Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://sameerreddy.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerreddy213/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sameerreddy213@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sameerreddy213)
+Pytest, shell testing, Playwright, Docker, GitHub Actions, CI/CD, AWS, Azure, and Linux
 
-Feel free to explore my repositories 😊!!
+Experience
+
+Full-Stack Developer Intern · Anytime Diesel
+
+06 Jul 2026 – Present
+
+Building Anytime Diesel Workforce, a production HRMS used across web, PWA, Android, and iOS with React, TypeScript, Node.js, Express, Prisma, and MySQL.
+
+Delivered role-based access control, GPS and face-enabled attendance, leave management, asset and expense workflows, notifications, and audit trails.
+
+Built an Inside Sales Dashboard for OMS claims, targets, approvals, customer ownership, and reporting with JWT authentication and Dockerized deployment.
+
+Reduced avoidable OMS API traffic through persistent synchronization, local-first reads, targeted refreshes, freshness windows, and background cooldowns.
+
+Product repositories: Anytime Diesel Workforce · Inside Sales Dashboard
+
+AI Systems Evaluation & Benchmark Development
+
+Create and review hard coding tasks for evaluating LLMs and AI coding agents across implementation, debugging, build, CLI, and dependency-management workflows.
+
+Build Docker-based task environments, reference solutions, and deterministic pytest and shell verification suites.
+
+Review model-generated solutions for correctness, completeness, instruction following, regressions, and edge-case handling.
+
+Identify specification/test mismatches, weak coverage, nondeterminism, Docker failures, and invalid oracle behavior, then document failure modes and improvements.
+
+INSA Summer Research Fellow · IIT Ropar
+
+19 May 2025 – 13 Jul 2025
+
+Project: LearnFlow · Mentor: Dr. Sudarshan Iyengar, Associate Professor, CSE
+
+Designed REST API integrations between a React frontend and MongoDB backend, reducing average API response time by approximately 20% through targeted query optimization.
+
+Co-built a Python synthetic-learner simulator with Pandas and NumPy to evaluate recommendation-engine accuracy, improving model precision by approximately 18%.
+
+Re-architected the React and Bootstrap frontend using reusable components and responsive layouts, improving usability and reducing page-load time.
+
+Featured Projects
+
+CampusGate
+
+A role-based campus entry and visitor-management platform built with the MERN stack. It supports secure authentication, approval workflows, QR-based verification, and responsive dashboards.
+
+
+
+
+Automated Daily Horoscope Bot
+
+An automated content pipeline that collects horoscope data, generates daily videos, and publishes them to YouTube using Python, Selenium, FFmpeg, and GitHub Actions.
+
+Tech Stack
+
+Languages
+
+
+
+
+
+
+
+
+Frontend & Mobile
+
+
+
+
+
+
+
+
+Backend & Data
+
+
+
+
+
+
+
+
+
+AI Evaluation, Testing & DevOps
+
+
+
+
+
+
+
+
+
+
+
+
+Certifications
+
+MongoDB Associate Developer · MongoDB University
+
+Data Analytics with Python · NPTEL, IIT Roorkee
+
+GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sameerreddy213&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=7C3AED" alt="Sameer's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerreddy213&layout=compact&hide_border=true&theme=transparent&title_color=2563EB" alt="Sameer's most-used languages" />
+</p>
+
+Let's Connect
+
+I'm open to opportunities in Applied AI, LLM Evaluation, AI Agent Engineering, Full-Stack Development, and Software Engineering.
+
+<p>
+  <a href="https://sameerreddy.tech">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/tamalampudisameerreddy/">LinkedIn</a> ·
+  <a href="mailto:tamalampudisameerreddy@gmail.com">Email</a> ·
+  <a href="https://github.com/sameerreddy213">GitHub</a>
+</p>
