@@ -141,12 +141,6 @@ An automated content pipeline that collects horoscope data, generates daily vide
 - [MongoDB Associate Developer](https://www.credly.com/badges/a33617a2-8315-4add-a3e6-0ef147033d42/linked_in?t=ta7aqf) — MongoDB University
 - [Data Analytics with Python](https://www.sameerreddy.tech/Data%20Analytics%20with%20Python.pdf) — NPTEL, IIT Roorkee
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sameerreddy213&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=7C3AED" alt="Sameer's GitHub Statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerreddy213&layout=compact&hide_border=true&theme=transparent&title_color=2563EB" alt="Sameer's Most Used Languages">
-</p>
 
 ## 🤝 Let's Connect
 
