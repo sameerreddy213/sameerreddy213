@@ -48,11 +48,6 @@
 - Implemented JWT authentication and Dockerized deployment.
 - Reduced avoidable OMS API traffic using persistent synchronization, local-first reads, targeted refreshes, freshness windows, and background cooldowns.
 
-**Product repositories:**
-
-- [Anytime Diesel Workforce](https://github.com/Sameerreddy-ATD/Atd-Hrms)
-- [Inside Sales Dashboard](https://github.com/Sameerreddy-ATD/Inside-Sales-Tele-Dashboard)
-
 ### Previous AI Systems Evaluation & Benchmark Development
 
 - Created and reviewed hard coding tasks for evaluating LLMs and AI coding agents.
